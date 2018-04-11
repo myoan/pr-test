@@ -9,6 +9,7 @@
 
 - yoan
 - iwasaki
+- iwasaki
 
 ## 持ち物(持ってきて頂けるもの)
 
