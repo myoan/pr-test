@@ -9,6 +9,8 @@
 
 - yoan
 - iwasaki
+- foo
+- bar
 
 ## 持ち物(持ってきて頂けるもの)
 
