@@ -22,3 +22,6 @@
 - 炭
 - 肉
 - ビール
+hogehgoe
+hogehgoe2
+hogehoge
