@@ -8,8 +8,10 @@
 ## 参加者(ペンネームで可)
 
 - yoan
+- alice
 - iwasaki
 - iwasaki
+
 
 ## 持ち物(持ってきて頂けるもの)
 
